@@ -1,7 +1,7 @@
 # sql_spc
-#SQL feito para alerta de falha de lançamento de informações no sistema por parte de algum operador
+# SQL feito para alerta de falha de lançamento de informações no sistema por parte de algum operador
 
-##Funcioanamento:
+## Funcioanamento:
 
 Passo 1:
 > Criação de tabela de modelo contendo todos os equipamentos
@@ -16,4 +16,4 @@ Passo 4:
 > Comparar  e selecionar  os lançamentos  faltantes
 
 Passo 5: 
-> Mostrar o resultado
+> Mostrar o resultado no PowerBI
